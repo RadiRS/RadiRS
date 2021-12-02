@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radirs&show_icons=true&locale=en&layout=compact" alt="radirs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radirs&show_icons=true&locale=en" alt="radirs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radirs&" alt="radirs" /></p>
