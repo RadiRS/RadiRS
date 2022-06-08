@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radi Rusadi</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Modal Rakyat](https://github.com/modal-rakyat-indonesia)
+<!--- 🔭 I’m currently working on [Modal Rakyat](https://github.com/modal-rakyat-indonesia)-->
 
 - 🌱 I’m currently learning **Flutter & NextJS**
 
