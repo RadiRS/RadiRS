@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on [Modal Rakyat](https://github.com/modal-rakyat-indonesia)-->
 
-- 🌱 I’m currently learning **Flutter & NextJS**
+- 🌱 I’m currently learning **Typescript & NextJS**
 
 - 💬 Ask me about **react, react-native and flutter**
 
