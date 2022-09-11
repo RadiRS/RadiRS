@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Radi Rusadi</h1>
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
-
-<!--- 🔭 I’m currently working on [Modal Rakyat](https://github.com/modal-rakyat-indonesia)-->
-
-- 🌱 I’m currently learning **Typescript & NextJS**
-
-- 💬 Ask me about **react, react-native and flutter**
-
-- 📫 How to reach me **radi.rusadi@paceprogrammer.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/radi-rusadi-a26669150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radi-rusadi-a26669150" height="30" width="40" /></a>
-<a href="https://instagram.com/radi.rusadi.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radi.rusadi.s" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://paceprogrammer.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RadiRS&show_icons=true&theme=dark&hide_border=true&icon_color=f2d0a4" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=RadiRS&theme=dark&hide_border=true&ring=F2D0A4&fire=F2D0A4&currStreakLabel=F2D0A4" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radirs&show_icons=true&locale=en&layout=compact" alt="radirs" /></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f2d0a4">
+  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f2d0a4">
+  <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f2d0a4">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f2d0a4">
+  <img src="https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f2d0a4">
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f2d0a4">
+  <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f2d0a4">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radirs&show_icons=true&locale=en" alt="radirs" /></p>
+
+<br/>
+
+[![Radi Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=RadiRS&hide_border=true&bg_color=151515&color=fff&line=f2d0a4&point=f2d0a4)](https://paceprogrammer.com)
