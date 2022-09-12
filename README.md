@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/RadiRS">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RadiRS&show_icons=true&theme=dark&hide_border=true&icon_color=f2d0a4" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=RadiRS&theme=dark&hide_border=true&ring=F2D0A4&fire=F2D0A4&currStreakLabel=F2D0A4" />
   </a>
@@ -7,7 +7,7 @@
 
 <br/>
 
-<a href="#">
+<a href="https://github.com/RadiRS">
   <div align="center">
     <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f2d0a4">
     <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f2d0a4">
@@ -24,7 +24,7 @@
 <br/>
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/RadiRS">
     <img  width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=radirs&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="radirs" />
   </a>
 </p>
