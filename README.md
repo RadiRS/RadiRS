@@ -31,4 +31,5 @@
 
 <br/>
 
-[![Radi Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=RadiRS&hide_border=true&bg_color=151515&color=fff&line=f2d0a4&point=f2d0a4)](https://paceprogrammer.com)
+[![Radi Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=radirs&bg_color=151515&color=ffffff&line=f2d0a4&point=f2d0a4&area=true&hide_border=true)](https://paceprogrammer.com)
+
