@@ -31,5 +31,5 @@
 
 <br/>
 
-[![Radi Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=radirs&bg_color=151515&color=ffffff&line=f2d0a4&point=f2d0a4&area=true&hide_border=true)](https://paceprogrammer.com)
+[![Radi Trips' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radirs&bg_color=151515&color=ffffff&line=f2d0a4&point=f2d0a4&area=true&hide_border=true)](https://paceprogrammer.com)
 
