@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/RadiRS">
-    <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=RadiRS&show_icons=true&theme=dark&hide_border=true&icon_color=f2d0a4" />
-    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=RadiRS&theme=dark&hide_border=true&ring=F2D0A4&fire=F2D0A4&currStreakLabel=F2D0A4" />
+    <img width="48.2%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=RadiRS&show_icons=true&theme=dark&hide_border=true&icon_color=f2d0a4" />
+    <img width="51%" src="https://github-readme-streak-stats-mu-flame.vercel.app?user=RadiRS&theme=dark&hide_border=true&ring=F2D0A4&fire=F2D0A4&currStreakLabel=F2D0A4" />
   </a>
 </p>
 
@@ -25,11 +25,10 @@
 
 <p align="center">
   <a href="https://github.com/RadiRS">
-    <img  width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=radirs&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="radirs" />
+    <img  width="49.5%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs?username=radirs&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="radirs" />
   </a>
 </p>
 
 <br/>
 
 [![Radi Trips' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radirs&bg_color=151515&color=ffffff&line=f2d0a4&point=f2d0a4&area=true&hide_border=true)](https://paceprogrammer.com)
-
