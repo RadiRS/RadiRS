@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/RadiRS">
-    <img width="48%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=RadiRS&show_icons=true&theme=dark&hide_border=true&icon_color=f2d0a4" />
-    <img width="50%" src="https://github-readme-streak-stats-mu-flame.vercel.app?user=RadiRS&theme=dark&hide_border=true&ring=F2D0A4&fire=F2D0A4&currStreakLabel=F2D0A4" />
+    <img width="48.2%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=RadiRS&show_icons=true&theme=dark&hide_border=true&icon_color=f2d0a4" />
+    <img width="51%" src="https://github-readme-streak-stats-mu-flame.vercel.app?user=RadiRS&theme=dark&hide_border=true&ring=F2D0A4&fire=F2D0A4&currStreakLabel=F2D0A4" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs?username=radirs&layout=compact&theme=dark&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs?username=radirs&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
